@@ -5,7 +5,6 @@ It provides a deep dive into how albums, artists, and tracks have been played ov
 
 📊 Dashboard Highlights
 1. Albums, Artists & Tracks Overview
-
 Albums Played: 7,381
 Artists Played: 3,835
 Tracks Played: 12,724
@@ -29,6 +28,5 @@ Track Skipped / Shuffled Filters: Added for customized insights.
 Album-level breakdown including:
 Number of Albums, Artists & Tracks
 Milliseconds Played
-Average Listening Time per track<img width="1028" height="684" alt="Spotify Dashboard 1" src="https://github.com/user-attachments/assets/bb692ec0-6fb5-4faa-8753-3e104913bfb8" />
-<img width="1032" height="684" alt="Spotify Dashboard 2" src="https://github.com/user-attachments/assets/a96e8444-aa69-4b3b-ae8c-22ea0bce0851" />
-<img width="1028" height="688" alt="Spotify Dashboard 3" src="https://github.com/user-attachments/assets/fc4ac926-907d-4a0a-9479-9b474efc4033" />
+
+<img width="1028" height="684" alt="Spotify Dashboard 1" src="https://github.com/user-attachments/assets/5bf88acb-a117-465f-88c1-dea830179787" />
