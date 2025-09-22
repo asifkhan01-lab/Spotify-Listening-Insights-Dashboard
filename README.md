@@ -28,5 +28,3 @@ Track Skipped / Shuffled Filters: Added for customized insights.
 Album-level breakdown including:
 Number of Albums, Artists & Tracks
 Milliseconds Played
-
-<img width="1028" height="684" alt="Spotify Dashboard 1" src="https://github.com/user-attachments/assets/5bf88acb-a117-465f-88c1-dea830179787" />
